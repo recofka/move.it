@@ -66,6 +66,7 @@ export function ChallengesProvider(
 
     function startNewChallenge() {
         const ramdomChallengeIndex = Math.floor(Math.random() * challenges.length)
+        console.log(ramdomChallengeIndex)
         const choosedChallenge = challenges[ramdomChallengeIndex];
 
         setActiveChallenge(choosedChallenge);

@@ -1,62 +1,62 @@
 [
   {
     "type": "body",
-    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
+    "description": "Extend one of your arms with your palm facing forward and pull your fingers upwards. Do it for 10 seconds per hand.",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+    "description": "Stretch your arm against your chest and pull it using your other arm. Do it for 10 seconds on each arm.",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+    "description": "Pull your neck with the help of your hand to the right and to the left, remaining in position for a few seconds.",
     "amount": 70
   },
   {
     "type": "body",
-    "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+    "description": "With fingers interlaced behind head, keep elbows straight out at sides with upper body in a good aligned position. Now pull your shoulder blades toward each other to create a feeling of tension though upper back and shoulder blades. Hold this feeling of mild tension for 8-10 seconds, then relax.",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+    "description": "Interlace fingers then turn palms upwards above your head as you straighten your arms. Think of elongating your arms as you feel a stretch through arms and upper sides of rib cage. Hold for 10-20 seconds. Hold only stretches that feel relaxing.",
     "amount": 100
   },
   {
     "type": "body",
-    "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+    "description": "Sitting, open your legs and try to touch your palms to the floor, repeat 3 times for 5 seconds.",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+    "description": "Hold onto your lower leg just below the knee. Gently pull bent leg toward your chest and isolate a stretch in the side of your upper leg. Make use of the right arm to pull bent leg towards the opposite shoulder. Hold for 10-20 seconds at easy stretch tension. Do both sides.",
     "amount": 50
   },
   {
     "type": "body",
-    "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
+    "description": "Put your hands to the side or lace your fingers behind your back. Inhale deeply and exhale as you pull your shoulders back. Hold for 15 seconds",
     "amount": 80
   },
   {
     "type": "eye",
-    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "description": "Sitting, close your eyes and cover them with your palms for 2 minutes, then open normally. ",
     "amount": 90
   },
   {
     "type": "eye",
-    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+    "description": "Sit on a chair in your best posture. Hold your arm straight out in front of you with your thumb up. Keep your eyes on your thumb. Slowly bend your elbow to bring your thumb closer to your eyes.",
     "amount": 140
   },
   {
     "type": "eye",
-    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "description": "Look straight ahead of you at a blank wall. Next, slowly close your eyes. Keep your eyes closed for half a second. Then slowly open them again. Repeat this slow blink 10 times in a row.",
     "amount": 70
   },
   {
-    "type": "body",
-    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
+    "type": "eye",
+    "description": "Look to your right and then roll your eyes up toward the sky. Next, roll your eyes down to the left and then to the ground. Repeat again going in the other direction. This is one rep. Aim for 10 reps",
     "amount": 90
   }
 ]
